@@ -6,7 +6,7 @@ export default function Home() {
       <div className="bg-white w-dvw h-dvh grid place-items-center text-black">
         <RouteButton path="page1">page</RouteButton>
       </div>
-      <div className="bg-white w-dvw h-dvh grid place-items-center text-black">
+      <div className="bg-slate-500 w-dvw h-dvh grid place-items-center text-black">
         <RouteButton path="page1">page</RouteButton>
       </div>
     </>
